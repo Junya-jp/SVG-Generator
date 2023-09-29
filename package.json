@@ -19,5 +19,11 @@
   "bugs": {
     "url": "https://github.com/Junya-jp/SVG-Generator/issues"
   },
-  "homepage": "https://github.com/Junya-jp/SVG-Generator#readme"
+  "homepage": "https://github.com/Junya-jp/SVG-Generator#readme",
+  "dependencies": {
+    "inquirer": "^8.2.4"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
 }
